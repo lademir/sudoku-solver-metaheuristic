@@ -1,0 +1,25 @@
+50 - Instâncias de dificuldade média (0.6)
+Média de iterações: 22461.7
+Média de tempo: 21.36s
+Maior iteração: 38400
+Menor iteração: 197
+Maior tempo: 37.91s
+Menor tempo: 0.17s
+Indice das instancias que nao foram resolvidas: (array([ 1,  5,  6,  7,  9, 10, 11, 25, 28, 30, 32, 37, 38, 39, 43, 44, 45,
+       46], dtype=int64),)
+Maior fitness: 6
+
+
+
+50 - Instancias de dificuldade dificil (0.9)
+Média de iteracoes: 28047.96
+Média de tempo: 26.11s
+Maior iteracao: 38400
+Menor iteracao: 2520
+Maior tempo: 38.87s
+Menor tempo: 2.08s
+Indice das instancias que nao foram resolvidas: (array([ 5,  6,  8,  9, 10, 11, 16, 18, 27, 34, 35, 36, 45], dtype=int64),)
+Maior fitness: 2
+
+
+
