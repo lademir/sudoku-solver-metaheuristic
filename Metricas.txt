@@ -1,8 +1,8 @@
-50 - Instâncias de dificuldade média (0.6)
-Média de iterações: 22461.7
-Média de tempo: 21.36s
-Maior iteração: 38400
-Menor iteração: 197
+50 - Instï¿½ncias de dificuldade mï¿½dia (0.6)
+Mï¿½dia de iteraï¿½ï¿½es: 22461.7
+Mï¿½dia de tempo: 21.36s
+Maior iteraï¿½ï¿½o: 38400
+Menor iteraï¿½ï¿½o: 197
 Maior tempo: 37.91s
 Menor tempo: 0.17s
 Indice das instancias que nao foram resolvidas: (array([ 1,  5,  6,  7,  9, 10, 11, 25, 28, 30, 32, 37, 38, 39, 43, 44, 45,
@@ -12,14 +12,86 @@ Maior fitness: 6
 
 
 50 - Instancias de dificuldade dificil (0.9)
-Média de iteracoes: 28047.96
-Média de tempo: 26.11s
+Mï¿½dia de iteracoes: 28047.96
+Mï¿½dia de tempo: 26.11s
 Maior iteracao: 38400
 Menor iteracao: 2520
 Maior tempo: 38.87s
 Menor tempo: 2.08s
 Indice das instancias que nao foram resolvidas: (array([ 5,  6,  8,  9, 10, 11, 16, 18, 27, 34, 35, 36, 45], dtype=int64),)
 Maior fitness: 2
+
+
+
+50 - Instancias de dificuldade facil (0.3)
+Mï¿½dia de geracoes: 56.3
+Mï¿½dia de tempo: 27.52s
+Maior geracao: 106
+Menor geracao: 20
+Maior tempo: 155.60s
+Menor tempo: 1.26s
+Indice das instancias que nao foram resolvidas: (array([], dtype=int64),)
+Maior fitness: 0
+
+
+
+50 - Instancias de dificuldade medio (0.6)
+Mï¿½dia de geracoes: 67.35
+Mï¿½dia de tempo: 49.26s
+Maior geracao: 404
+Menor geracao: 20
+Maior tempo: 777.37s
+Menor tempo: 1.26s
+Indice das instancias que nao foram resolvidas: (array([], dtype=int64),)
+Maior fitness: 0
+
+
+
+50 - Instancias de dificuldade dificil (0.9)
+Mï¿½dia de geracoes: 68.86
+Mï¿½dia de tempo: 51.73s
+Maior geracao: 404
+Menor geracao: 20
+Maior tempo: 777.37s
+Menor tempo: 1.26s
+Indice das instancias que nao foram resolvidas: (array([], dtype=int64),)
+Maior fitness: 0
+
+sem zerar as metricas :(
+
+50 - Instancias de dificuldade facil (0.3)
+Média de geracoes: 62.24
+Média de tempo: 24.60s
+Maior geracao: 364
+Menor geracao: 18
+Maior tempo: 476.96s
+Menor tempo: 0.73s
+Indice das instancias que nao foram resolvidas: (array([], dtype=int64),)
+Maior fitness: 0
+
+
+
+50 - Instancias de dificuldade medio (0.6)
+Média de geracoes: 111.38
+Média de tempo: 91.98s
+Maior geracao: 1200
+Menor geracao: 27
+Maior tempo: 1609.06s
+Menor tempo: 2.20s
+Indice das instancias que nao foram resolvidas: (array([45], dtype=int64),)
+Maior fitness: 4
+
+
+
+50 - Instancias de dificuldade dificil (0.9)
+Média de geracoes: 70.06
+Média de tempo: 40.21s
+Maior geracao: 212
+Menor geracao: 31
+Maior tempo: 269.44s
+Menor tempo: 4.59s
+Indice das instancias que nao foram resolvidas: (array([], dtype=int64),)
+Maior fitness: 0
 
 
 
